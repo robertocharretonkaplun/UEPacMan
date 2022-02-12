@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UEPacman",
+			"Path": "C:\\Users\\personal\\Documents\\GitHub\\UEPacMan\\UEPacman\\Source\\UEPacman.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UEPacmanEditor",
+			"Path": "C:\\Users\\personal\\Documents\\GitHub\\UEPacMan\\UEPacman\\Source\\UEPacmanEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

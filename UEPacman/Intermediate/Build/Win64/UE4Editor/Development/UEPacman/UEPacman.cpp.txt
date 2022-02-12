@@ -1,0 +1,2 @@
+C:\Users\personal\Documents\GitHub\UEPacMan\UEPacman\Intermediate\Build\Win64\UE4Editor\Development\UEPacman\Definitions.UEPacman.h
+C:\Users\personal\Documents\GitHub\UEPacMan\UEPacman\Source\UEPacman\UEPacman.h

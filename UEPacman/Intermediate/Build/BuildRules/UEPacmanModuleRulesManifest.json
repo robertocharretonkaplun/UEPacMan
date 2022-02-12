@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\personal\\Documents\\GitHub\\UEPacMan\\UEPacman\\Source\\UEPacman\\UEPacman.Build.cs",
+		"C:\\Users\\personal\\Documents\\GitHub\\UEPacMan\\UEPacman\\Source\\UEPacman.Target.cs",
+		"C:\\Users\\personal\\Documents\\GitHub\\UEPacMan\\UEPacman\\Source\\UEPacmanEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UEPacman.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B00CDC97-B423-4A56-ACBF-ED28D8A4FEBA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UEPacman.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UEPacmanEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C34A0B1B-C63F-4340-A670-26BB5464142D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UEPacman">
+      <UniqueIdentifier>{16E75DB9-5693-4171-8B0B-930DD9175446}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UEPacman\UEPacman.Build.cs">
+      <Filter>Source\UEPacman</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UEPacman\UEPacman.cpp">
+      <Filter>Source\UEPacman</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEPacman\UEPacman.h">
+      <Filter>Source\UEPacman</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEPacman\UEPacmanGameModeBase.cpp">
+      <Filter>Source\UEPacman</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEPacman\UEPacmanGameModeBase.h">
+      <Filter>Source\UEPacman</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
