@@ -898,3 +898,916 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.12-15.30.07:890][  0]LogAssetRegistry: Asset discovery search completed in 6.8031 seconds
 [2022.02.12-15.30.07:898][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
 [2022.02.12-15.30.07:898][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.12-16.00.28:239][863]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5bb1b820-a389-42cf-a0e2-d010bd2d193c}.
+[2022.02.12-16.00.28:239][863]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.12-16.00.28:296][863]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.12-16.00.28:296][863]LogAudioMixer: Display: 1: FrontRight
+[2022.02.12-16.00.28:296][863]LogAudioMixer: Display: 2: FrontCenter
+[2022.02.12-16.00.28:296][863]LogAudioMixer: Display: 3: LowFrequency
+[2022.02.12-16.00.28:296][863]LogAudioMixer: Display: 4: BackLeft
+[2022.02.12-16.00.28:296][863]LogAudioMixer: Display: 5: BackRight
+[2022.02.12-16.00.28:297][863]LogAudioMixer: Display: 6: SideLeft
+[2022.02.12-16.00.28:297][863]LogAudioMixer: Display: 7: SideRight
+[2022.02.12-18.08.10:716][735]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ba7842b1-9bb1-4987-a29f-ff6a699735a7}.
+[2022.02.12-18.08.11:102][735]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.12-18.08.11:306][735]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.12-18.08.11:306][735]LogAudioMixer: Display: 1: FrontRight
+[2022.02.12-18.08.11:306][735]LogAudioMixer: Display: 2: FrontCenter
+[2022.02.12-18.08.11:306][735]LogAudioMixer: Display: 3: LowFrequency
+[2022.02.12-18.08.11:306][735]LogAudioMixer: Display: 4: BackLeft
+[2022.02.12-18.08.11:306][735]LogAudioMixer: Display: 5: BackRight
+[2022.02.12-18.08.11:306][735]LogAudioMixer: Display: 6: SideLeft
+[2022.02.12-18.08.11:306][735]LogAudioMixer: Display: 7: SideRight
+[2022.02.12-19.16.08:512][905]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5bb1b820-a389-42cf-a0e2-d010bd2d193c}.
+[2022.02.12-19.16.08:513][905]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.12-19.16.08:581][905]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.12-19.16.08:581][905]LogAudioMixer: Display: 1: FrontRight
+[2022.02.12-19.16.08:581][905]LogAudioMixer: Display: 2: FrontCenter
+[2022.02.12-19.16.08:581][905]LogAudioMixer: Display: 3: LowFrequency
+[2022.02.12-19.16.08:581][905]LogAudioMixer: Display: 4: BackLeft
+[2022.02.12-19.16.08:581][905]LogAudioMixer: Display: 5: BackRight
+[2022.02.12-19.16.08:581][905]LogAudioMixer: Display: 6: SideLeft
+[2022.02.12-19.16.08:581][905]LogAudioMixer: Display: 7: SideRight
+[2022.02.12-19.34.58:010][337]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ba7842b1-9bb1-4987-a29f-ff6a699735a7}.
+[2022.02.12-19.34.58:010][337]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.12-19.34.58:192][337]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.12-19.34.58:192][337]LogAudioMixer: Display: 1: FrontRight
+[2022.02.12-19.34.58:193][337]LogAudioMixer: Display: 2: FrontCenter
+[2022.02.12-19.34.58:193][337]LogAudioMixer: Display: 3: LowFrequency
+[2022.02.12-19.34.58:193][337]LogAudioMixer: Display: 4: BackLeft
+[2022.02.12-19.34.58:193][337]LogAudioMixer: Display: 5: BackRight
+[2022.02.12-19.34.58:193][337]LogAudioMixer: Display: 6: SideLeft
+[2022.02.12-19.34.58:193][337]LogAudioMixer: Display: 7: SideRight
+[2022.02.12-19.35.06:559][351]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ba7842b1-9bb1-4987-a29f-ff6a699735a7}.
+[2022.02.12-19.35.06:559][351]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.12-19.35.06:622][351]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.12-19.35.06:622][351]LogAudioMixer: Display: 1: FrontRight
+[2022.02.12-19.35.06:622][351]LogAudioMixer: Display: 2: FrontCenter
+[2022.02.12-19.35.06:622][351]LogAudioMixer: Display: 3: LowFrequency
+[2022.02.12-19.35.06:622][351]LogAudioMixer: Display: 4: BackLeft
+[2022.02.12-19.35.06:622][351]LogAudioMixer: Display: 5: BackRight
+[2022.02.12-19.35.06:622][351]LogAudioMixer: Display: 6: SideLeft
+[2022.02.12-19.35.06:623][351]LogAudioMixer: Display: 7: SideRight
+[2022.02.12-19.41.04:859][415]LogHttp: Warning: 000001E6931D0800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2A7E8C59-4D67-9729-E1FE-6BA2491569AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=7e55cc2942f2739b7f9c909f5dbb70ea%7C3a3ecba3af9747bd8d476320d95b6fe0%7Cc2836713-fea0-491b-8414-5f10d535aade&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.12-19.41.04:859][415]LogHttp: Warning: 000001E6931D0800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.02.12-19.41.04:859][415]LogHttp: Warning: 000001E6931D0800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e6ba2f3eb0 [can pipeline])
+[2022.02.12-19.41.04:859][415]LogHttp: Warning: 000001E6931D0800: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2022.02.12-19.41.04:859][415]LogHttp: Warning: 000001E6931D0800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.205.1.55) port 443 (#2))
+[2022.02.12-19.41.04:859][415]LogHttp: Warning: 000001E6931D0800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.02.12-19.41.04:859][415]LogHttp: Warning: 000001E6931D0800: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.02.12-19.41.04:860][415]LogHttp: Warning: 000001E6931D0800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.02.12-19.41.04:860][415]LogHttp: Warning: 000001E6931D0800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.02.12-19.41.04:860][415]LogHttp: Warning: 000001E6931D0800: libcurl info message cache 7 (Closing connection 2)
+[2022.02.12-19.41.05:195][416]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2A7E8C59-4D67-9729-E1FE-6BA2491569AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=7e55cc2942f2739b7f9c909f5dbb70ea%7C3a3ecba3af9747bd8d476320d95b6fe0%7Cc2836713-fea0-491b-8414-5f10d535aade&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.12-19.41.06:871][421]LogHttp: Warning: 000001E6931D0800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2A7E8C59-4D67-9729-E1FE-6BA2491569AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=7e55cc2942f2739b7f9c909f5dbb70ea%7C3a3ecba3af9747bd8d476320d95b6fe0%7Cc2836713-fea0-491b-8414-5f10d535aade&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.12-19.41.06:871][421]LogHttp: Warning: 000001E6931D0800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.02.12-19.41.06:871][421]LogHttp: Warning: 000001E6931D0800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.02.12-19.41.06:871][421]LogHttp: Warning: 000001E6931D0800: libcurl info message cache 1 (Closing connection 3)
+[2022.02.12-19.41.07:205][422]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2A7E8C59-4D67-9729-E1FE-6BA2491569AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=7e55cc2942f2739b7f9c909f5dbb70ea%7C3a3ecba3af9747bd8d476320d95b6fe0%7Cc2836713-fea0-491b-8414-5f10d535aade&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.12-19.42.06:785][600]LogHttp: Warning: 000001E6931D0800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2A7E8C59-4D67-9729-E1FE-6BA2491569AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=7e55cc2942f2739b7f9c909f5dbb70ea%7C3a3ecba3af9747bd8d476320d95b6fe0%7Cc2836713-fea0-491b-8414-5f10d535aade&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.12-19.42.06:785][600]LogHttp: Warning: 000001E6931D0800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.02.12-19.42.06:785][600]LogHttp: Warning: 000001E6931D0800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.02.12-19.42.06:785][600]LogHttp: Warning: 000001E6931D0800: libcurl info message cache 1 (Closing connection 4)
+[2022.02.12-19.42.06:785][600]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2A7E8C59-4D67-9729-E1FE-6BA2491569AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=7e55cc2942f2739b7f9c909f5dbb70ea%7C3a3ecba3af9747bd8d476320d95b6fe0%7Cc2836713-fea0-491b-8414-5f10d535aade&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.12-19.42.15:514][625]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.12-19.42.15:534][625]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.12-19.42.15:534][625]LogAudioMixer: Display: 1: FrontRight
+[2022.02.12-19.42.15:534][625]LogAudioMixer: Display: 2: FrontCenter
+[2022.02.12-19.42.15:534][625]LogAudioMixer: Display: 3: LowFrequency
+[2022.02.12-19.42.15:534][625]LogAudioMixer: Display: 4: BackLeft
+[2022.02.12-19.42.15:534][625]LogAudioMixer: Display: 5: BackRight
+[2022.02.12-19.42.15:534][625]LogAudioMixer: Display: 6: SideLeft
+[2022.02.12-19.42.15:534][625]LogAudioMixer: Display: 7: SideRight
+[2022.02.12-19.42.25:188][654]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.02.12-19.57.02:107][658]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.02.12-19.57.02:108][658]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.02.12-19.57.02:117][658]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.02.12-19.57.05:308][658]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.12-19.57.05:353][658]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.12-19.57.05:353][658]LogAudioMixer: Display: 1: FrontRight
+[2022.02.12-19.57.05:353][658]LogAudioMixer: Display: 2: FrontCenter
+[2022.02.12-19.57.05:353][658]LogAudioMixer: Display: 3: LowFrequency
+[2022.02.12-19.57.05:353][658]LogAudioMixer: Display: 4: BackLeft
+[2022.02.12-19.57.05:353][658]LogAudioMixer: Display: 5: BackRight
+[2022.02.12-19.57.05:353][658]LogAudioMixer: Display: 6: SideLeft
+[2022.02.12-19.57.05:353][658]LogAudioMixer: Display: 7: SideRight
+[2022.02.12-19.57.08:680][659]LogHttp: Warning: 000001E6931D0800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2A7E8C59-4D67-9729-E1FE-6BA2491569AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=7e55cc2942f2739b7f9c909f5dbb70ea%7C3a3ecba3af9747bd8d476320d95b6fe0%7Cc2836713-fea0-491b-8414-5f10d535aade&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.12-19.57.08:680][659]LogHttp: Warning: 000001E6931D0800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.02.12-19.57.08:680][659]LogHttp: Warning: 000001E6931D0800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.02.12-19.57.08:680][659]LogHttp: Warning: 000001E6931D0800: libcurl info message cache 1 (Closing connection 5)
+[2022.02.12-19.57.09:083][660]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2A7E8C59-4D67-9729-E1FE-6BA2491569AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=7e55cc2942f2739b7f9c909f5dbb70ea%7C3a3ecba3af9747bd8d476320d95b6fe0%7Cc2836713-fea0-491b-8414-5f10d535aade&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.12-19.58.30:253][957]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.12-19.58.30:327][957]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.12-19.58.30:332][957]LogSlate: Took 0.001430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.12-19.58.34:513][208]LogContentBrowser: Attempting asset rename: NewFolder -> Development
+[2022.02.12-19.58.34:514][208]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.12-20.06.22:756][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-20.06.25:193][483]LogActorFactory: Actor Factory created Cube
+[2022.02.12-20.06.26:438][553]LogActorFactory: Actor Factory created Cube
+[2022.02.12-20.06.55:804][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-20.07.12:984][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.02.12-20.07.53:169][643]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-20.07.53:636][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-20.07.55:784][794]EditorErrors: New page: Actor attachment
+[2022.02.12-20.08.05:198][340]Cmd: EDIT COPY
+[2022.02.12-20.08.05:432][356]Cmd: EDIT PASTE
+[2022.02.12-20.08.22:813][286]Cmd: EDIT COPY
+[2022.02.12-20.08.23:046][300]Cmd: EDIT PASTE
+[2022.02.12-20.08.58:610][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.02.12-20.09.00:186][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.02.12-20.09.30:461][328]Cmd: TRANSACTION UNDO
+[2022.02.12-20.09.30:461][328]LogEditorTransaction: Undo Set Location
+[2022.02.12-20.09.30:476][328]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.12-20.09.36:111][650]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-20.09.36:964][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.02.12-20.09.43:975][119]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-20.09.44:289][137]Cmd: TRANSACTION UNDO
+[2022.02.12-20.09.44:321][137]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.12-20.09.44:823][150]Cmd: TRANSACTION UNDO
+[2022.02.12-20.09.44:823][150]LogEditorTransaction: Undo Set Scale
+[2022.02.12-20.09.56:419][841]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-20.09.56:718][858]Cmd: TRANSACTION UNDO
+[2022.02.12-20.09.56:718][858]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.12-20.09.57:003][865]Cmd: TRANSACTION UNDO
+[2022.02.12-20.09.57:003][865]LogEditorTransaction: Undo Set Scale
+[2022.02.12-20.09.57:785][904]Cmd: TRANSACTION UNDO
+[2022.02.12-20.09.57:785][904]LogEditorTransaction: Undo Set Scale
+[2022.02.12-20.10.08:588][552]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.12-20.10.14:401][899]Cmd: TRANSACTION UNDO
+[2022.02.12-20.10.14:401][899]LogEditorTransaction: Undo Move Actors
+[2022.02.12-20.10.15:031][920]Cmd: EDIT COPY
+[2022.02.12-20.10.15:381][941]Cmd: EDIT PASTE
+[2022.02.12-20.10.21:674][317]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-20.10.22:706][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.02.12-20.10.33:799][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.02.12-20.10.40:690][446]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-20.10.41:769][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.02.12-20.10.46:798][809]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-20.10.50:017][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.02.12-20.10.50:545][ 31]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-20.10.51:203][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.02.12-20.10.52:062][117]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube4)
+[2022.02.12-20.10.54:038][234]Cmd: EDIT COPY
+[2022.02.12-20.10.54:255][247]Cmd: EDIT PASTE
+[2022.02.12-20.11.06:352][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-20.11.06:915][  3]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-20.11.27:687][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.02.12-20.11.28:933][938]Cmd: EDIT COPY
+[2022.02.12-20.11.29:201][954]Cmd: EDIT PASTE
+[2022.02.12-20.11.41:469][688]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.02.12-20.11.47:533][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.02.12-20.11.52:267][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.02.12-20.11.58:016][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2022.02.12-20.11.59:242][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.02.12-20.12.04:756][ 76]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-20.12.05:877][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.02.12-20.12.06:644][186]Cmd: DELETE
+[2022.02.12-20.12.06:675][186]Cmd: ACTOR DELETE
+[2022.02.12-20.12.06:685][186]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.12.06:716][186]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2022.02.12-20.12.06:736][186]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.02.12-20.12.07:351][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2022.02.12-20.12.07:531][232]Cmd: DELETE
+[2022.02.12-20.12.07:531][232]Cmd: ACTOR DELETE
+[2022.02.12-20.12.07:532][232]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.12.07:540][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.02.12-20.12.07:540][232]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.02.12-20.12.08:631][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.02.12-20.12.09:583][353]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube4)
+[2022.02.12-20.12.10:784][423]Cmd: EDIT COPY
+[2022.02.12-20.12.10:985][435]Cmd: EDIT PASTE
+[2022.02.12-20.12.16:911][789]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-20.12.21:769][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2022.02.12-20.12.22:484][968]Cmd: EDIT COPY
+[2022.02.12-20.12.22:684][980]Cmd: EDIT PASTE
+[2022.02.12-20.12.31:610][514]Cmd: EDIT COPY
+[2022.02.12-20.12.31:831][527]Cmd: EDIT PASTE
+[2022.02.12-20.12.34:959][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-20.12.35:605][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.12.37:506][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.02.12-20.12.38:134][897]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.12.38:994][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-20.12.41:791][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.02.12-20.12.44:603][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.12.46:107][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.02.12-20.12.47:206][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.12.47:944][473]Cmd: EDIT COPY
+[2022.02.12-20.12.48:160][486]Cmd: EDIT PASTE
+[2022.02.12-20.12.56:126][771]Cmd: EDIT COPY
+[2022.02.12-20.12.56:376][786]Cmd: EDIT PASTE
+[2022.02.12-20.13.00:153][ 11]Cmd: EDIT COPY
+[2022.02.12-20.13.00:386][ 25]Cmd: EDIT PASTE
+[2022.02.12-20.13.02:743][165]Cmd: EDIT COPY
+[2022.02.12-20.13.02:959][178]Cmd: EDIT PASTE
+[2022.02.12-20.13.06:820][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-20.13.07:633][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.02.12-20.13.08:330][495]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube12)
+[2022.02.12-20.13.09:522][565]Cmd: EDIT COPY
+[2022.02.12-20.13.09:722][577]Cmd: EDIT PASTE
+[2022.02.12-20.13.13:749][817]Cmd: EDIT PASTE
+[2022.02.12-20.13.18:675][111]Cmd: DELETE
+[2022.02.12-20.13.18:675][111]Cmd: ACTOR DELETE
+[2022.02.12-20.13.18:676][111]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.13.18:677][111]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.13.18:684][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.02.12-20.13.18:685][111]LogEditorActor: Deleted 2 Actors (0.010 secs)
+[2022.02.12-20.13.19:725][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2022.02.12-20.13.26:573][570]Cmd: EDIT COPY
+[2022.02.12-20.13.26:797][583]Cmd: EDIT PASTE
+[2022.02.12-20.13.32:218][905]Cmd: TRANSACTION UNDO
+[2022.02.12-20.13.32:218][905]LogEditorTransaction: Undo Move Actors
+[2022.02.12-20.13.35:087][ 58]Cmd: TRANSACTION UNDO
+[2022.02.12-20.13.35:088][ 58]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.12-20.13.35:481][ 79]Cmd: TRANSACTION UNDO
+[2022.02.12-20.13.35:481][ 79]LogEditorTransaction: Undo Paste
+[2022.02.12-20.13.36:379][127]Cmd: TRANSACTION UNDO
+[2022.02.12-20.13.36:379][127]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.12-20.13.37:946][219]Cmd: TRANSACTION UNDO
+[2022.02.12-20.13.37:946][219]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.12-20.13.38:730][265]Cmd: TRANSACTION REDO
+[2022.02.12-20.13.38:731][265]LogEditorTransaction: Redo Clicking on Actors
+[2022.02.12-20.13.39:959][336]Cmd: EDIT COPY
+[2022.02.12-20.13.40:271][353]Cmd: EDIT PASTE
+[2022.02.12-20.13.59:204][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.02.12-20.14.00:302][265]Cmd: DELETE
+[2022.02.12-20.14.00:302][265]Cmd: ACTOR DELETE
+[2022.02.12-20.14.00:303][265]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.14.00:310][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.02.12-20.14.00:311][265]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.02.12-20.14.01:398][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2022.02.12-20.14.03:866][476]Cmd: DELETE
+[2022.02.12-20.14.03:866][476]Cmd: ACTOR DELETE
+[2022.02.12-20.14.03:867][476]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.14.03:874][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.02.12-20.14.03:875][476]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.02.12-20.14.05:332][564]Cmd: TRANSACTION UNDO
+[2022.02.12-20.14.05:332][564]LogEditorTransaction: Undo Delete Actors
+[2022.02.12-20.14.14:053][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.14.16:333][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2022.02.12-20.14.20:851][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.14.50:055][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.14.50:061][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2022.02.12-20.14.50:089][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.14.50:324][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.15.12:812][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2022.02.12-20.15.12:835][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2022.02.12-20.15.19:127][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.15.27:514][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.15.56:635][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.15.59:563][447]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-20.16.00:340][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.16.26:741][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.16.31:834][232]Cmd: EDIT COPY
+[2022.02.12-20.16.32:052][245]Cmd: EDIT PASTE
+[2022.02.12-20.17.22:023][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.17.30:587][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2022.02.12-20.17.32:103][482]Cmd: EDIT COPY
+[2022.02.12-20.17.32:321][495]Cmd: EDIT PASTE
+[2022.02.12-20.17.39:418][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2022.02.12-20.17.43:183][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-20.17.43:982][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.02.12-20.18.32:350][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2022.02.12-20.18.33:467][959]Cmd: DELETE
+[2022.02.12-20.18.33:467][959]Cmd: ACTOR DELETE
+[2022.02.12-20.18.33:470][959]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.18.33:478][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.02.12-20.18.33:480][959]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.02.12-20.18.34:266][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2022.02.12-20.18.34:982][ 49]Cmd: DELETE
+[2022.02.12-20.18.34:982][ 49]Cmd: ACTOR DELETE
+[2022.02.12-20.18.34:984][ 49]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.18.34:991][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.02.12-20.18.34:991][ 49]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.02.12-20.18.35:949][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.02.12-20.18.39:515][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.18.40:432][284]Cmd: EDIT COPY
+[2022.02.12-20.18.40:631][296]Cmd: EDIT PASTE
+[2022.02.12-20.18.48:862][787]Cmd: TRANSACTION UNDO
+[2022.02.12-20.18.48:862][787]LogEditorTransaction: Undo Set Location
+[2022.02.12-20.19.50:159][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.02.12-20.19.52:359][268]Cmd: EDIT COPY
+[2022.02.12-20.19.52:594][282]Cmd: EDIT PASTE
+[2022.02.12-20.19.55:641][465]Cmd: EDIT COPY
+[2022.02.12-20.19.55:841][477]Cmd: EDIT PASTE
+[2022.02.12-20.20.00:556][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2022.02.12-20.20.11:577][184]LogSlate: Window 'Save Level As' being destroyed
+[2022.02.12-20.20.11:667][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.12-20.20.11:677][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.02.12-20.20.13:474][184]LogSavePackage: Moving '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Saved/Level1068430D443A82A7D2CB6D194C3601627.tmp' to '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1.umap'
+[2022.02.12-20.20.13:489][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1_BuiltData.uasset" SILENT=true
+[2022.02.12-20.20.13:515][184]LogSavePackage: Moving '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Saved/Level1_BuiltData7F7446D646FC04D64758AAAA4B4C3A43.tmp' to '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1_BuiltData.uasset'
+[2022.02.12-20.20.13:551][184]LogFileHelpers: Saving map 'Level1' took 1.928
+[2022.02.12-20.20.13:558][184]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.12-20.20.13:558][184]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2022.02.12-20.20.13:559][184]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.02.12-20.20.17:751][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.02.12-20.20.18:667][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2022.02.12-20.20.19:884][565]Cmd: DELETE
+[2022.02.12-20.20.19:884][565]Cmd: ACTOR DELETE
+[2022.02.12-20.20.19:885][565]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.20.19:900][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.02.12-20.20.19:901][565]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2022.02.12-20.20.22:099][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2022.02.12-20.20.22:833][741]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube11)
+[2022.02.12-20.20.30:413][193]Cmd: TRANSACTION UNDO
+[2022.02.12-20.20.30:413][193]LogEditorTransaction: Undo Set Scale
+[2022.02.12-20.20.38:063][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.02.12-20.20.39:810][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.02.12-20.20.52:523][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.02.12-20.20.55:030][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.12-20.20.55:036][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.02.12-20.20.55:331][574]LogSavePackage: Moving '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Saved/Level110E18443486628B394234A93BE64D36D.tmp' to '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1.umap'
+[2022.02.12-20.20.55:337][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1_BuiltData.uasset" SILENT=true
+[2022.02.12-20.20.55:353][574]LogSavePackage: Moving '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Saved/Level1_BuiltData84E02A90404DC8A49C87B6B1AD05B437.tmp' to '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1_BuiltData.uasset'
+[2022.02.12-20.20.55:365][574]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.12-20.20.55:365][574]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2022.02.12-20.20.55:365][574]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.02.12-20.46.52:204][797]Cmd: DELETE
+[2022.02.12-20.46.52:204][797]Cmd: ACTOR DELETE
+[2022.02.12-20.46.52:207][797]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.46.52:222][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.02.12-20.46.52:224][797]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2022.02.12-20.46.56:285][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.46.57:869][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2022.02.12-20.46.59:455][158]Cmd: EDIT COPY
+[2022.02.12-20.46.59:668][171]Cmd: EDIT PASTE
+[2022.02.12-20.47.09:299][747]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.12-20.47.25:294][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-20.47.37:373][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2022.02.12-20.47.43:105][461]Cmd: TRANSACTION UNDO
+[2022.02.12-20.47.43:105][461]LogEditorTransaction: Undo Move Actors
+[2022.02.12-20.47.46:804][668]Cmd: TRANSACTION UNDO
+[2022.02.12-20.47.46:804][668]LogEditorTransaction: Undo Move Actors
+[2022.02.12-20.47.48:120][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2022.02.12-20.47.51:701][945]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube11)
+[2022.02.12-20.48.06:980][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.02.12-20.48.12:611][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2022.02.12-20.48.33:506][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.48.48:935][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.02.12-20.48.49:601][137]Cmd: EDIT COPY
+[2022.02.12-20.48.49:834][151]Cmd: EDIT PASTE
+[2022.02.12-20.48.53:717][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.49.38:431][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.02.12-20.49.38:433][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Saved/Autosaves/Game/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.02.12-20.49.38:453][ 46]LogSavePackage: Moving '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Saved/Level1_Auto16A221EA744894961A9E34F9D823AD4BC.tmp' to '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Saved/Autosaves/Game/Level1_Auto1.umap'
+[2022.02.12-20.49.38:455][ 46]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.030
+[2022.02.12-20.49.38:455][ 46]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2022.02.12-20.49.41:416][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.02.12-20.49.42:284][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.02.12-20.49.43:383][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.49.44:483][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.02.12-20.49.45:500][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.49.49:449][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.02.12-20.50.02:312][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.02.12-20.50.05:292][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.50.06:310][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.02.12-20.50.06:709][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.51.02:392][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2022.02.12-20.51.04:110][127]Cmd: DELETE
+[2022.02.12-20.51.04:110][127]Cmd: ACTOR DELETE
+[2022.02.12-20.51.04:112][127]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.51.04:121][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.02.12-20.51.04:123][127]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.02.12-20.51.05:075][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2022.02.12-20.51.14:273][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.02.12-20.51.26:469][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2022.02.12-20.51.27:601][512]Cmd: EDIT COPY
+[2022.02.12-20.51.27:784][523]Cmd: EDIT PASTE
+[2022.02.12-20.51.34:865][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.02.12-20.51.35:914][  9]Cmd: EDIT COPY
+[2022.02.12-20.51.36:131][ 22]Cmd: EDIT PASTE
+[2022.02.12-20.51.39:030][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2022.02.12-20.51.41:313][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.51.49:460][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2022.02.12-20.51.52:043][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.51.53:110][ 38]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube26)
+[2022.02.12-20.51.54:109][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.51.56:675][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.51.57:444][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.52.10:904][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2022.02.12-20.52.36:129][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.02.12-20.52.39:861][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2022.02.12-20.52.40:511][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.52.41:211][896]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2022.02.12-20.52.41:976][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.52.51:525][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2022.02.12-20.53.02:871][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.53.24:998][516]Cmd: EDIT COPY
+[2022.02.12-20.53.25:247][531]Cmd: EDIT PASTE
+[2022.02.12-20.53.56:286][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-20.54.02:168][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2022.02.12-20.54.14:815][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2022.02.12-20.54.17:197][645]Cmd: DELETE
+[2022.02.12-20.54.17:197][645]Cmd: ACTOR DELETE
+[2022.02.12-20.54.17:199][645]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.54.17:206][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.02.12-20.54.17:207][645]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.02.12-20.54.18:247][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2022.02.12-20.54.33:541][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.54.40:522][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.02.12-20.54.41:472][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.02.12-20.54.42:888][ 91]Cmd: DELETE
+[2022.02.12-20.54.42:888][ 91]Cmd: ACTOR DELETE
+[2022.02.12-20.54.42:890][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.54.42:896][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.02.12-20.54.42:897][ 91]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.02.12-20.54.45:604][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2022.02.12-20.54.46:421][302]Cmd: DELETE
+[2022.02.12-20.54.46:421][302]Cmd: ACTOR DELETE
+[2022.02.12-20.54.46:423][302]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.54.46:429][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.02.12-20.54.46:430][302]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.02.12-20.54.47:587][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.54.48:603][430]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube25)
+[2022.02.12-20.54.49:103][459]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube11)
+[2022.02.12-20.54.49:886][506]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube26)
+[2022.02.12-20.54.52:435][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2022.02.12-20.54.54:768][798]Cmd: EDIT COPY
+[2022.02.12-20.54.55:051][815]Cmd: EDIT PASTE
+[2022.02.12-20.55.02:950][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.55.04:715][370]Cmd: EDIT COPY
+[2022.02.12-20.55.04:966][385]Cmd: EDIT PASTE
+[2022.02.12-20.55.11:764][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2022.02.12-20.55.12:445][831]Cmd: EDIT COPY
+[2022.02.12-20.55.12:871][855]Cmd: EDIT PASTE
+[2022.02.12-20.55.18:179][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2022.02.12-20.55.18:894][214]Cmd: EDIT COPY
+[2022.02.12-20.55.19:345][241]Cmd: EDIT PASTE
+[2022.02.12-20.55.24:526][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.55.30:973][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2022.02.12-20.55.31:773][850]Cmd: DELETE
+[2022.02.12-20.55.31:773][850]Cmd: ACTOR DELETE
+[2022.02.12-20.55.31:776][850]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.55.31:785][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.02.12-20.55.31:786][850]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.02.12-20.55.33:422][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2022.02.12-20.55.34:339][  3]Cmd: DELETE
+[2022.02.12-20.55.34:339][  3]Cmd: ACTOR DELETE
+[2022.02.12-20.55.34:341][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.55.34:348][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.02.12-20.55.34:349][  3]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.02.12-20.55.39:171][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.02.12-20.55.39:954][339]Cmd: EDIT COPY
+[2022.02.12-20.55.40:203][354]Cmd: EDIT PASTE
+[2022.02.12-20.55.45:553][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2022.02.12-20.55.46:435][718]Cmd: DELETE
+[2022.02.12-20.55.46:435][718]Cmd: ACTOR DELETE
+[2022.02.12-20.55.46:437][718]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-20.55.46:444][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.02.12-20.55.46:445][718]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.02.12-20.55.51:034][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.55.57:298][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-20.55.57:981][317]Cmd: EDIT COPY
+[2022.02.12-20.55.58:166][328]Cmd: EDIT PASTE
+[2022.02.12-20.56.09:228][918]Cmd: EDIT COPY
+[2022.02.12-20.56.09:530][936]Cmd: EDIT PASTE
+[2022.02.12-20.56.17:043][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.56.21:824][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2022.02.12-20.56.22:723][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2022.02.12-20.56.26:773][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.56.28:821][ 34]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.12-20.56.32:022][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2022.02.12-20.56.35:525][343]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2022.02.12-20.57.18:522][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.57.22:871][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2022.02.12-20.57.23:454][865]Cmd: EDIT COPY
+[2022.02.12-20.57.23:687][879]Cmd: EDIT PASTE
+[2022.02.12-20.57.34:201][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.57.42:599][936]Cmd: EDIT COPY
+[2022.02.12-20.57.42:843][949]Cmd: EDIT PASTE
+[2022.02.12-20.57.52:129][396]Cmd: EDIT COPY
+[2022.02.12-20.57.52:347][409]Cmd: EDIT PASTE
+[2022.02.12-20.57.56:611][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2022.02.12-20.57.57:410][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube30)
+[2022.02.12-20.57.59:144][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.58.02:358][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2022.02.12-20.58.09:639][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.58.11:956][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube30)
+[2022.02.12-20.58.18:955][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube32)
+[2022.02.12-20.58.27:601][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube30)
+[2022.02.12-20.58.28:702][544]Cmd: EDIT COPY
+[2022.02.12-20.58.28:934][558]Cmd: EDIT PASTE
+[2022.02.12-20.58.35:215][934]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.12-20.58.38:663][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.58.45:512][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2022.02.12-20.58.46:162][584]Cmd: EDIT COPY
+[2022.02.12-20.58.46:378][597]Cmd: EDIT PASTE
+[2022.02.12-20.58.51:010][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2022.02.12-20.58.51:526][883]Cmd: EDIT COPY
+[2022.02.12-20.58.51:742][896]Cmd: EDIT PASTE
+[2022.02.12-20.59.09:920][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.59.14:536][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2022.02.12-20.59.17:469][ 37]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.12-20.59.27:516][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-20.59.28:201][542]Cmd: EDIT COPY
+[2022.02.12-20.59.28:415][555]Cmd: EDIT PASTE
+[2022.02.12-20.59.32:880][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2022.02.12-20.59.40:429][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2022.02.12-20.59.45:976][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2022.02.12-20.59.46:344][423]Cmd: TRANSACTION UNDO
+[2022.02.12-20.59.46:344][423]LogEditorTransaction: Undo Set Scale
+[2022.02.12-20.59.53:607][825]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-20.59.55:397][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-21.00.02:321][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2022.02.12-21.00.03:170][392]Cmd: EDIT COPY
+[2022.02.12-21.00.03:387][405]Cmd: EDIT PASTE
+[2022.02.12-21.00.10:153][808]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-21.00.21:981][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-21.00.25:797][504]Cmd: EDIT COPY
+[2022.02.12-21.00.26:296][534]Cmd: EDIT PASTE
+[2022.02.12-21.00.32:229][889]Cmd: EDIT COPY
+[2022.02.12-21.00.32:645][914]Cmd: EDIT PASTE
+[2022.02.12-21.00.37:294][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-21.00.37:976][230]Cmd: EDIT COPY
+[2022.02.12-21.00.38:192][243]Cmd: EDIT PASTE
+[2022.02.12-21.00.42:475][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2022.02.12-21.00.43:607][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2022.02.12-21.00.45:509][657]Cmd: DELETE
+[2022.02.12-21.00.45:509][657]Cmd: ACTOR DELETE
+[2022.02.12-21.00.45:511][657]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.00.45:521][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.02.12-21.00.45:523][657]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.02.12-21.00.49:338][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2022.02.12-21.01.06:883][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-21.01.27:712][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2022.02.12-21.02.00:220][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-21.02.00:866][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2022.02.12-21.02.02:701][967]Cmd: EDIT COPY
+[2022.02.12-21.02.02:936][979]Cmd: EDIT PASTE
+[2022.02.12-21.02.07:315][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-21.02.26:142][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2022.02.12-21.02.27:176][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2022.02.12-21.02.33:456][417]Cmd: DELETE
+[2022.02.12-21.02.33:456][417]Cmd: ACTOR DELETE
+[2022.02.12-21.02.33:460][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.02.33:460][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.02.33:460][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.02.33:461][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.02.33:461][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.02.33:461][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.02.33:461][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.02.33:462][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.02.33:470][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.02.12-21.02.33:471][417]LogEditorActor: Deleted 8 Actors (0.015 secs)
+[2022.02.12-21.02.35:488][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.02.12-21.02.46:952][216]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-21.02.49:951][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.02.12-21.02.50:817][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2022.02.12-21.03.44:733][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-21.03.56:697][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2022.02.12-21.03.57:565][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.02.12-21.03.58:297][481]Cmd: DELETE
+[2022.02.12-21.03.58:297][481]Cmd: ACTOR DELETE
+[2022.02.12-21.03.58:299][481]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.03.58:304][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.02.12-21.03.58:305][481]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.02.12-21.04.00:080][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.02.12-21.04.01:212][655]Cmd: EDIT COPY
+[2022.02.12-21.04.01:429][668]Cmd: EDIT PASTE
+[2022.02.12-21.04.10:358][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.02.12-21.04.11:492][260]Cmd: DELETE
+[2022.02.12-21.04.11:492][260]Cmd: ACTOR DELETE
+[2022.02.12-21.04.11:494][260]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.04.11:505][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.02.12-21.04.11:537][260]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2022.02.12-21.04.15:323][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2022.02.12-21.04.20:130][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.12-21.04.20:136][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.02.12-21.04.20:154][772]LogSavePackage: Moving '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Saved/Level1D718140E4EE797D4ECAE57BE366FD1E2.tmp' to '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1.umap'
+[2022.02.12-21.04.20:165][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1_BuiltData.uasset" SILENT=true
+[2022.02.12-21.04.20:188][772]LogSavePackage: Moving '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Saved/Level1_BuiltData05365F7F4432B2FEFE63B5B39E0A71F4.tmp' to '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1_BuiltData.uasset'
+[2022.02.12-21.04.20:207][772]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.12-21.04.20:207][772]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2022.02.12-21.04.20:207][772]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.02.12-21.04.51:696][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.02.12-21.04.52:745][857]Cmd: DELETE
+[2022.02.12-21.04.52:745][857]Cmd: ACTOR DELETE
+[2022.02.12-21.04.52:747][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.04.52:764][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.02.12-21.04.52:766][857]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2022.02.12-21.04.55:895][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2022.02.12-21.04.56:494][ 80]Cmd: EDIT COPY
+[2022.02.12-21.04.58:176][179]Cmd: EDIT PASTE
+[2022.02.12-21.05.05:308][604]Cmd: TRANSACTION UNDO
+[2022.02.12-21.05.05:309][604]LogEditorTransaction: Undo Set Location
+[2022.02.12-21.05.05:779][617]Cmd: TRANSACTION UNDO
+[2022.02.12-21.05.05:779][617]LogEditorTransaction: Undo Paste
+[2022.02.12-21.05.06:357][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.02.12-21.05.07:157][694]Cmd: DELETE
+[2022.02.12-21.05.07:157][694]Cmd: ACTOR DELETE
+[2022.02.12-21.05.07:160][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.05.07:173][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.02.12-21.05.07:174][694]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2022.02.12-21.05.09:589][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2022.02.12-21.05.11:473][953]Cmd: TRANSACTION UNDO
+[2022.02.12-21.05.11:473][953]LogEditorTransaction: Undo Move Actors
+[2022.02.12-21.05.12:354][990]Cmd: EDIT COPY
+[2022.02.12-21.05.12:572][  3]Cmd: EDIT PASTE
+[2022.02.12-21.05.24:333][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.12-21.05.24:342][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.02.12-21.05.32:268][694]LogSavePackage: Moving '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Saved/Level158A53D564FF8F315EC3518828E0514F3.tmp' to '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1.umap'
+[2022.02.12-21.05.32:276][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1_BuiltData.uasset" SILENT=true
+[2022.02.12-21.05.32:302][694]LogSavePackage: Moving '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Saved/Level1_BuiltData2913BF774E7E00207AFDC9A0E19F4737.tmp' to '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1_BuiltData.uasset'
+[2022.02.12-21.05.32:426][694]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.12-21.05.32:426][694]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2022.02.12-21.05.32:426][694]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.02.12-21.39.52:449][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2022.02.12-21.39.53:544][872]Cmd: EDIT COPY
+[2022.02.12-21.39.53:743][884]Cmd: EDIT PASTE
+[2022.02.12-21.40.02:645][414]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.02.12-21.40.03:895][485]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-21.40.10:397][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2022.02.12-21.40.12:503][997]Cmd: EDIT COPY
+[2022.02.12-21.40.12:739][ 11]Cmd: EDIT PASTE
+[2022.02.12-21.40.21:330][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube36)
+[2022.02.12-21.40.23:039][598]Cmd: EDIT COPY
+[2022.02.12-21.40.23:306][614]Cmd: EDIT PASTE
+[2022.02.12-21.40.30:834][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube26)
+[2022.02.12-21.40.31:530][104]Cmd: EDIT COPY
+[2022.02.12-21.40.31:814][121]Cmd: EDIT PASTE
+[2022.02.12-21.40.42:328][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube24)
+[2022.02.12-21.40.42:874][774]Cmd: EDIT COPY
+[2022.02.12-21.40.43:374][804]Cmd: EDIT PASTE
+[2022.02.12-21.40.49:021][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2022.02.12-21.40.49:734][179]Cmd: EDIT COPY
+[2022.02.12-21.40.49:984][194]Cmd: EDIT PASTE
+[2022.02.12-21.40.55:052][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2022.02.12-21.40.55:666][530]Cmd: EDIT COPY
+[2022.02.12-21.40.55:949][547]Cmd: EDIT PASTE
+[2022.02.12-21.41.02:822][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2022.02.12-21.41.03:507][991]Cmd: EDIT COPY
+[2022.02.12-21.41.03:740][  5]Cmd: EDIT PASTE
+[2022.02.12-21.41.08:681][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube33)
+[2022.02.12-21.41.09:379][335]Cmd: EDIT COPY
+[2022.02.12-21.41.09:663][352]Cmd: EDIT PASTE
+[2022.02.12-21.41.14:170][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube40)
+[2022.02.12-21.41.15:267][685]Cmd: EDIT COPY
+[2022.02.12-21.41.15:617][706]Cmd: EDIT PASTE
+[2022.02.12-21.41.21:251][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2022.02.12-21.41.21:366][ 46]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.02.12-21.41.22:215][ 95]Cmd: EDIT COPY
+[2022.02.12-21.41.22:512][111]Cmd: EDIT PASTE
+[2022.02.12-21.41.29:724][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-21.41.30:252][551]Cmd: TRANSACTION UNDO
+[2022.02.12-21.41.30:252][551]LogEditorTransaction: Undo Clicking on Actors
+[2022.02.12-21.41.30:713][563]Cmd: TRANSACTION UNDO
+[2022.02.12-21.41.30:713][563]LogEditorTransaction: Undo Paste Components
+[2022.02.12-21.41.32:331][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2022.02.12-21.41.34:017][753]Cmd: EDIT COPY
+[2022.02.12-21.41.34:533][784]Cmd: EDIT PASTE
+[2022.02.12-21.41.40:120][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2022.02.12-21.41.41:504][191]Cmd: EDIT COPY
+[2022.02.12-21.41.42:021][222]Cmd: EDIT PASTE
+[2022.02.12-21.41.53:362][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube30)
+[2022.02.12-21.41.54:362][950]Cmd: EDIT COPY
+[2022.02.12-21.41.54:762][974]Cmd: EDIT PASTE
+[2022.02.12-21.42.00:648][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube31)
+[2022.02.12-21.42.01:434][368]Cmd: EDIT COPY
+[2022.02.12-21.42.01:721][385]Cmd: EDIT PASTE
+[2022.02.12-21.42.06:978][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube32)
+[2022.02.12-21.42.07:633][705]Cmd: EDIT COPY
+[2022.02.12-21.42.07:950][724]Cmd: EDIT PASTE
+[2022.02.12-21.42.12:633][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2022.02.12-21.42.14:219][ 79]Cmd: EDIT COPY
+[2022.02.12-21.42.14:537][ 98]Cmd: EDIT PASTE
+[2022.02.12-21.42.31:822][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.02.12-21.42.33:765][243]Cmd: EDIT PASTE
+[2022.02.12-21.42.34:938][311]Cmd: TRANSACTION UNDO
+[2022.02.12-21.42.34:938][311]LogEditorTransaction: Undo Paste
+[2022.02.12-21.42.36:343][377]Cmd: EDIT COPY
+[2022.02.12-21.42.36:660][396]Cmd: EDIT PASTE
+[2022.02.12-21.42.37:543][445]LogSlate: Took 0.002063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.12-21.42.42:542][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2022.02.12-21.42.44:561][807]Cmd: EDIT CUT
+[2022.02.12-21.42.44:566][807]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.42.44:607][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.02.12-21.42.44:609][807]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2022.02.12-21.42.45:184][842]Cmd: TRANSACTION UNDO
+[2022.02.12-21.42.45:184][842]LogEditorTransaction: Undo Cut
+[2022.02.12-21.42.45:590][852]Cmd: TRANSACTION UNDO
+[2022.02.12-21.42.45:590][852]LogEditorTransaction: Undo Move Actors
+[2022.02.12-21.42.52:746][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2022.02.12-21.42.53:364][311]Cmd: EDIT COPY
+[2022.02.12-21.42.53:663][329]Cmd: EDIT PASTE
+[2022.02.12-21.42.58:396][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube27)
+[2022.02.12-21.42.59:047][643]Cmd: EDIT COPY
+[2022.02.12-21.42.59:282][657]Cmd: EDIT PASTE
+[2022.02.12-21.43.04:711][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2022.02.12-21.43.05:554][ 25]Cmd: EDIT COPY
+[2022.02.12-21.43.05:855][ 43]Cmd: EDIT PASTE
+[2022.02.12-21.43.12:808][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2022.02.12-21.43.13:511][473]Cmd: EDIT COPY
+[2022.02.12-21.43.13:946][499]Cmd: EDIT PASTE
+[2022.02.12-21.43.18:740][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube34)
+[2022.02.12-21.43.19:387][821]Cmd: EDIT COPY
+[2022.02.12-21.43.19:687][839]Cmd: EDIT PASTE
+[2022.02.12-21.43.35:925][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2022.02.12-21.43.44:011][291]Cmd: EDIT COPY
+[2022.02.12-21.43.44:512][321]Cmd: EDIT PASTE
+[2022.02.12-21.43.49:350][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.02.12-21.43.50:248][653]Cmd: EDIT COPY
+[2022.02.12-21.43.50:614][675]Cmd: EDIT PASTE
+[2022.02.12-21.44.02:815][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2022.02.12-21.44.03:453][397]Cmd: EDIT COPY
+[2022.02.12-21.44.03:737][414]Cmd: EDIT PASTE
+[2022.02.12-21.44.10:524][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube28)
+[2022.02.12-21.44.11:686][881]Cmd: EDIT COPY
+[2022.02.12-21.44.12:006][900]Cmd: EDIT PASTE
+[2022.02.12-21.44.19:521][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2022.02.12-21.44.20:126][322]Cmd: EDIT COPY
+[2022.02.12-21.44.20:367][336]Cmd: EDIT PASTE
+[2022.02.12-21.44.27:486][753]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-21.44.41:565][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2022.02.12-21.44.45:822][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube30)
+[2022.02.12-21.44.53:808][947]Cmd: EDIT COPY
+[2022.02.12-21.44.54:042][961]Cmd: EDIT PASTE
+[2022.02.12-21.44.59:246][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2022.02.12-21.45.00:647][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube62)
+[2022.02.12-21.45.01:300][389]Cmd: EDIT COPY
+[2022.02.12-21.45.01:516][402]Cmd: EDIT PASTE
+[2022.02.12-21.45.09:691][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2022.02.12-21.45.12:818][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube63)
+[2022.02.12-21.45.40:211][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube63)
+[2022.02.12-21.45.59:402][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-21.46.06:730][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube63)
+[2022.02.12-21.46.39:008][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube62)
+[2022.02.12-21.46.40:429][187]Cmd: DELETE
+[2022.02.12-21.46.40:429][187]Cmd: ACTOR DELETE
+[2022.02.12-21.46.40:431][187]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.46.40:438][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.02.12-21.46.40:439][187]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.02.12-21.46.41:711][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube50)
+[2022.02.12-21.46.42:411][303]Cmd: EDIT COPY
+[2022.02.12-21.46.42:661][318]Cmd: EDIT PASTE
+[2022.02.12-21.46.51:405][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube63)
+[2022.02.12-21.46.53:149][937]Cmd: EDIT COPY
+[2022.02.12-21.46.53:389][951]Cmd: EDIT PASTE
+[2022.02.12-21.47.00:836][390]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube63)
+[2022.02.12-21.47.01:867][450]Cmd: EDIT COPY
+[2022.02.12-21.47.02:101][464]Cmd: EDIT PASTE
+[2022.02.12-21.47.33:984][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube64)
+[2022.02.12-21.47.34:768][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube62)
+[2022.02.12-21.47.35:627][456]Cmd: EDIT COPY
+[2022.02.12-21.47.35:854][469]Cmd: EDIT PASTE
+[2022.02.12-21.47.42:150][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube66)
+[2022.02.12-21.47.49:835][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube65)
+[2022.02.12-21.48.04:140][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube66)
+[2022.02.12-21.48.25:826][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube65)
+[2022.02.12-21.48.33:026][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube63)
+[2022.02.12-21.48.43:154][315]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube32)
+[2022.02.12-21.48.43:896][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-21.48.48:666][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube67)
+[2022.02.12-21.48.49:517][688]Cmd: DELETE
+[2022.02.12-21.48.49:517][688]Cmd: ACTOR DELETE
+[2022.02.12-21.48.49:519][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.48.49:526][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.02.12-21.48.49:527][688]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.02.12-21.48.52:542][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube62)
+[2022.02.12-21.48.54:106][961]Cmd: DELETE
+[2022.02.12-21.48.54:106][961]Cmd: ACTOR DELETE
+[2022.02.12-21.48.54:108][961]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.12-21.48.54:113][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.02.12-21.48.54:114][961]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.02.12-21.48.54:955][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube64)
+[2022.02.12-21.49.18:119][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.12-21.49.18:825][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube64)
+[2022.02.12-21.49.26:589][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube64)
+[2022.02.12-21.49.29:115][ 31]Cmd: EDIT COPY
+[2022.02.12-21.49.29:314][ 43]Cmd: EDIT PASTE
+[2022.02.12-21.49.34:974][374]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-21.49.39:936][660]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.02.12-21.50.17:349][755]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2022.02.12-21.50.17:404][757]LogEditorViewport: Clicking on Component (LMB): CameraComponent (CameraComponent)
+[2022.02.12-21.50.40:970][851]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.12-21.50.40:979][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.12-21.50.40:980][851]PIE: New page: PIE session: Level1 (12 feb. 2022 9:50:40)
+[2022.02.12-21.50.40:989][851]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.12-21.50.40:992][851]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.12-21.50.40:992][851]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.02.12-21.50.41:003][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010722s)
+[2022.02.12-21.50.41:007][851]LogAIModule: Creating AISystem for world Level1
+[2022.02.12-21.50.41:008][851]LogPlayLevel: PIE: World Init took: (0.004967s)
+[2022.02.12-21.50.41:009][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.016290s)
+[2022.02.12-21.50.41:018][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.02.12-21.50.41:021][851]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.12-21.50.41:021][851]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.12-21.50.41:021][851]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.12-21.50.41:021][851]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.12-21.50.41:021][851]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.12-21.50.41:021][851]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.12-21.50.41:021][851]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.12-21.50.41:021][851]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.12-21.50.41:021][851]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.12-21.50.41:022][851]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.12-21.50.41:022][851]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.12-21.50.41:022][851]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.12-21.50.41:022][851]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.12-21.50.41:042][851]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.12-21.50.41:042][851]LogAudioMixer: Display: 1: FrontRight
+[2022.02.12-21.50.41:042][851]LogAudioMixer: Display: 2: FrontCenter
+[2022.02.12-21.50.41:042][851]LogAudioMixer: Display: 3: LowFrequency
+[2022.02.12-21.50.41:042][851]LogAudioMixer: Display: 4: BackLeft
+[2022.02.12-21.50.41:042][851]LogAudioMixer: Display: 5: BackRight
+[2022.02.12-21.50.41:042][851]LogAudioMixer: Display: 6: SideLeft
+[2022.02.12-21.50.41:042][851]LogAudioMixer: Display: 7: SideRight
+[2022.02.12-21.50.41:127][851]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.02.12-21.50.41:129][851]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.12-21.50.41:129][851]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.12-21.50.41:129][851]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.12-21.50.41:136][851]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.12-21.50.41:136][851]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.12-21.50.41:136][851]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.02.12-21.50.41:137][851]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.12-21.50.41:137][851]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.12-21.50.41:137][851]LogInit: FAudioDevice initialized.
+[2022.02.12-21.50.41:138][851]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2022.02.12-21.50.41:157][851]LogLoad: Game class is 'GameModeBase'
+[2022.02.12-21.50.41:166][851]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2022.02.12-15.50.41
+[2022.02.12-21.50.41:167][851]LogWorld: Bringing up level for play took: 0.003013
+[2022.02.12-21.50.41:168][851]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.02.12-21.50.41:185][851]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 20 classes and 0 folders.
+[2022.02.12-21.50.41:191][851]PIE: Server logged in
+[2022.02.12-21.50.41:193][851]PIE: Play in editor total start time 0.217 seconds.
+[2022.02.12-21.51.00:879][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.12-21.51.00:879][ 19]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.02.12-21.51.00:879][ 19]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.12-21.51.00:880][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-21.51.00:896][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.12-21.51.00:950][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.12-21.51.00:957][ 19]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.12-21.51.00:959][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.12-21.51.00:960][ 19]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.12-21.51.00:967][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.12-21.51.00:976][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.02.12-21.51.01:010][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.02.12-21.51.53:659][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.02.12-21.51.53:662][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Saved/Autosaves/Game/Level1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.02.12-21.51.53:687][519]LogSavePackage: Moving '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Saved/Level1_Auto26FF1FA0A47056C3DC3D5CB812BD1A010.tmp' to '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Saved/Autosaves/Game/Level1_Auto2.umap'
+[2022.02.12-21.51.53:689][519]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.043
+[2022.02.12-21.51.53:689][519]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2022.02.12-21.52.40:930][590]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.12-21.52.43:040][590]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.12-21.52.43:049][590]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.12-21.52.43:057][590]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.12-21.52.44:181][658]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.02.12-21.52.44:222][658]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.12-21.52.46:310][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.02.12-21.52.47:685][779]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.12-21.52.47:804][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.02.12-21.52.58:519][371]LogSlate: Took 0.001682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.12-21.53.11:145][ 95]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/personal/Documents/GitHub/UEPacMan/UEPacman/UEPacman.uproject" -game -rocket -progress
+[2022.02.12-21.53.11:853][ 95]Discovering modules, targets and source code for project...
+[2022.02.12-21.53.16:179][ 95]Binding IntelliSense data...
+[2022.02.12-21.53.19:920][ 95]Binding IntelliSense data... 100%
+[2022.02.12-21.53.19:920][ 95]Writing project files...
+[2022.02.12-21.53.25:256][ 95]Writing project files... 100%
+[2022.02.12-21.53.25:533][ 95]Candidate modules for hot reload:
+[2022.02.12-21.53.25:533][ 95]  UEPacman
+[2022.02.12-21.53.25:534][ 95]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UEPacman,1725 UEPacmanEditor Win64 Development -Project="C:/Users/personal/Documents/GitHub/UEPacMan/UEPacman/UEPacman.uproject" "C:/Users/personal/Documents/GitHub/UEPacMan/UEPacman/UEPacman.uproject"  -IgnoreJunk]
+[2022.02.12-21.54.06:070][ 95]CompilerResultsLog: New page: Compilation - 12 feb. 2022 9:54:06
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\personal\Documents\GitHub\UEPacMan).
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog: Creating makefile for UEPacmanEditor (no existing makefile)
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog: Parsing headers for UEPacmanEditor
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\personal\Documents\GitHub\UEPacMan\UEPacman\UEPacman.uproject" "C:\Users\personal\Documents\GitHub\UEPacMan\UEPacman\Intermediate\Build\Win64\UEPacmanEditor\Development\UEPacmanEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\personal\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog: Reflection code generated for UEPacmanEditor in 6.6942873 seconds
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog: Building UEPacmanEditor...
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog: Building 9 actions with 8 processes...
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog:   [1/9] PacmanPawn.cpp
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog:   [2/9] UEPacman.init.gen.cpp
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog:   [3/9] UEPacmanGameModeBase.cpp
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog:   [4/9] UEPacman.cpp
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog:   [5/9] UEPacmanGameModeBase.gen.cpp
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog:   [6/9] PacmanPawn.gen.cpp
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog:   [7/9] UE4Editor-UEPacman-1725.lib
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog:      Creating library C:\Users\personal\Documents\GitHub\UEPacMan\UEPacman\Intermediate\Build\Win64\UE4Editor\Development\UEPacman\UE4Editor-UEPacman-1725.lib and object C:\Users\personal\Documents\GitHub\UEPacMan\UEPacman\Intermediate\Build\Win64\UE4Editor\Development\UEPacman\UE4Editor-UEPacman-1725.exp
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog:   [8/9] UE4Editor-UEPacman-1725.dll
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog:      Creating library C:\Users\personal\Documents\GitHub\UEPacMan\UEPacman\Intermediate\Build\Win64\UE4Editor\Development\UEPacman\UE4Editor-UEPacman-1725.suppressed.lib and object C:\Users\personal\Documents\GitHub\UEPacMan\UEPacman\Intermediate\Build\Win64\UE4Editor\Development\UEPacman\UE4Editor-UEPacman-1725.suppressed.exp
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog:   [9/9] UEPacmanEditor.target
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog: Total time in Parallel executor: 15.83 seconds
+[2022.02.12-21.54.06:071][ 95]CompilerResultsLog: Total execution time: 40.42 seconds
+[2022.02.12-21.54.06:071][ 95]LogMainFrame: MainFrame: Module compiling took 40.559 seconds
+[2022.02.12-21.54.06:097][ 95]LogClass: Could not find existing class PacmanPawn in package /Script/UEPacman for HotReload, assuming new class
+[2022.02.12-21.54.06:099][ 95]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UEPacman' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2022.02.12-21.54.06:107][ 95]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.02.12-21.54.06:202][ 95]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0162 seconds. Added 3824 classes and 930 folders.
+[2022.02.12-21.54.06:203][ 95]Display: HotReload took 40.7s.
+[2022.02.12-21.54.06:203][ 95]Warning: HotReload operation took 40.7s.
+[2022.02.12-21.54.07:887][ 95]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/personal/Documents/GitHub/UEPacMan/UEPacman/Source/UEPacman/PacmanPawn.h'
+[2022.02.12-21.54.08:134][ 95]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/Users/personal/Documents/GitHub/UEPacMan/UEPacman/Source/UEPacman/PacmanPawn.cpp'
+[2022.02.12-21.54.08:139][ 95]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.02.12-21.54.08:215][ 96]LogHotReload: New module detected: UE4Editor-UEPacman-1725.dll
+[2022.02.12-21.54.08:252][ 97]LogHotReload: Starting Hot-Reload from IDE
+[2022.02.12-21.54.08:287][ 97]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UEPacman' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2022.02.12-21.54.08:289][ 97]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.02.12-21.54.08:304][ 97]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0121 seconds. Added 3824 classes and 930 folders.
+[2022.02.12-21.54.08:312][ 97]Display: HotReload took  0.1s.
+[2022.02.12-21.54.23:237][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.12-21.54.23:246][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.02.12-21.54.23:298][366]LogSavePackage: Moving '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Saved/Level14F84BECD426CB64F2E85CB9471CF92B4.tmp' to '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1.umap'
+[2022.02.12-21.54.23:311][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1_BuiltData.uasset" SILENT=true
+[2022.02.12-21.54.23:339][366]LogSavePackage: Moving '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Saved/Level1_BuiltData2002BC1142681823529D6E80D26EECA8.tmp' to '../../../../../../Users/personal/Documents/GitHub/UEPacMan/UEPacman/Content/Level1_BuiltData.uasset'
+[2022.02.12-21.54.23:421][366]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.12-21.54.23:421][366]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2022.02.12-21.54.23:421][366]LogContentValidation: Display: Validating World /Game/Level1.Level1
