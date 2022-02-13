@@ -30,6 +30,7 @@ protected:
 	UPROPERTY(BlueprintReadOnly)
 	bool m_frozen = true;
 	int points = 0;
+	int lives = 5;
 public:
 
 	void 
@@ -48,6 +49,12 @@ public:
 	UFUNCTION(BlueprintCallable)
 		int
 		GetPoints() {return points;}
+	UFUNCTION(BlueprintCallable)
+		void
+		removelife(int _live) { lives -= _live; }
+	UFUNCTION(BlueprintCallable)
+		int
+		GetLives() { return lives; }
 private:
 	UFUNCTION()
 		void

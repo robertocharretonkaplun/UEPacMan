@@ -25,7 +25,7 @@ void EmptyLinkFunctionForGeneratedCodeUEPacman_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x3F5E796C,
+				0xE3DFCD22,
 				0x62302964,
 				METADATA_PARAMS(nullptr, 0)
 			};

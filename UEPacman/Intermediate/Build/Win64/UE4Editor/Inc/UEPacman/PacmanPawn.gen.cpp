@@ -28,6 +28,21 @@ void EmptyLinkFunctionForGeneratedCodePacmanPawn() {}
 		P_THIS->OnOverlapBegin(Z_Param_PlayerActor,Z_Param_OtherActor);
 		P_NATIVE_END;
 	}
+	DEFINE_FUNCTION(APacmanPawn::execGetLives)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		*(int32*)Z_Param__Result=P_THIS->GetLives();
+		P_NATIVE_END;
+	}
+	DEFINE_FUNCTION(APacmanPawn::execremovelife)
+	{
+		P_GET_PROPERTY(FIntProperty,Z_Param__live);
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->removelife(Z_Param__live);
+		P_NATIVE_END;
+	}
 	DEFINE_FUNCTION(APacmanPawn::execGetPoints)
 	{
 		P_FINISH;
@@ -56,8 +71,10 @@ void EmptyLinkFunctionForGeneratedCodePacmanPawn() {}
 		UClass* Class = APacmanPawn::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "AddPoint", &APacmanPawn::execAddPoint },
+			{ "GetLives", &APacmanPawn::execGetLives },
 			{ "GetPoints", &APacmanPawn::execGetPoints },
 			{ "OnOverlapBegin", &APacmanPawn::execOnOverlapBegin },
+			{ "removelife", &APacmanPawn::execremovelife },
 			{ "SetFrozen", &APacmanPawn::execSetFrozen },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
@@ -91,6 +108,38 @@ void EmptyLinkFunctionForGeneratedCodePacmanPawn() {}
 		if (!ReturnFunction)
 		{
 			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_APacmanPawn_AddPoint_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_APacmanPawn_GetLives_Statics
+	{
+		struct PacmanPawn_eventGetLives_Parms
+		{
+			int32 ReturnValue;
+		};
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_ReturnValue;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UFunction_APacmanPawn_GetLives_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(PacmanPawn_eventGetLives_Parms, ReturnValue), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_APacmanPawn_GetLives_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_APacmanPawn_GetLives_Statics::NewProp_ReturnValue,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_APacmanPawn_GetLives_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "PacmanPawn.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_APacmanPawn_GetLives_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_APacmanPawn, nullptr, "GetLives", nullptr, nullptr, sizeof(PacmanPawn_eventGetLives_Parms), Z_Construct_UFunction_APacmanPawn_GetLives_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_APacmanPawn_GetLives_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_APacmanPawn_GetLives_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_APacmanPawn_GetLives_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_APacmanPawn_GetLives()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_APacmanPawn_GetLives_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -162,6 +211,38 @@ void EmptyLinkFunctionForGeneratedCodePacmanPawn() {}
 		}
 		return ReturnFunction;
 	}
+	struct Z_Construct_UFunction_APacmanPawn_removelife_Statics
+	{
+		struct PacmanPawn_eventremovelife_Parms
+		{
+			int32 _live;
+		};
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp__live;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UE4CodeGen_Private::FFunctionParams FuncParams;
+	};
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UFunction_APacmanPawn_removelife_Statics::NewProp__live = { "_live", nullptr, (EPropertyFlags)0x0010000000000080, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(PacmanPawn_eventremovelife_Parms, _live), METADATA_PARAMS(nullptr, 0) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_APacmanPawn_removelife_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_APacmanPawn_removelife_Statics::NewProp__live,
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_APacmanPawn_removelife_Statics::Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "PacmanPawn.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_APacmanPawn_removelife_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_APacmanPawn, nullptr, "removelife", nullptr, nullptr, sizeof(PacmanPawn_eventremovelife_Parms), Z_Construct_UFunction_APacmanPawn_removelife_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_APacmanPawn_removelife_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_APacmanPawn_removelife_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_APacmanPawn_removelife_Statics::Function_MetaDataParams)) };
+	UFunction* Z_Construct_UFunction_APacmanPawn_removelife()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_APacmanPawn_removelife_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
 	struct Z_Construct_UFunction_APacmanPawn_SetFrozen_Statics
 	{
 		struct PacmanPawn_eventSetFrozen_Parms
@@ -225,8 +306,10 @@ void EmptyLinkFunctionForGeneratedCodePacmanPawn() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_APacmanPawn_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_APacmanPawn_AddPoint, "AddPoint" }, // 3227675009
+		{ &Z_Construct_UFunction_APacmanPawn_GetLives, "GetLives" }, // 829381029
 		{ &Z_Construct_UFunction_APacmanPawn_GetPoints, "GetPoints" }, // 2784086322
 		{ &Z_Construct_UFunction_APacmanPawn_OnOverlapBegin, "OnOverlapBegin" }, // 118439239
+		{ &Z_Construct_UFunction_APacmanPawn_removelife, "removelife" }, // 2513742095
 		{ &Z_Construct_UFunction_APacmanPawn_SetFrozen, "SetFrozen" }, // 2475363293
 	};
 #if WITH_METADATA
@@ -277,7 +360,7 @@ void EmptyLinkFunctionForGeneratedCodePacmanPawn() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APacmanPawn, 1776465948);
+	IMPLEMENT_CLASS(APacmanPawn, 428055166);
 	template<> UEPACMAN_API UClass* StaticClass<APacmanPawn>()
 	{
 		return APacmanPawn::StaticClass();

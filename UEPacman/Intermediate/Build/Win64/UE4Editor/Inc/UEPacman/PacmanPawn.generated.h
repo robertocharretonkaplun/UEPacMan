@@ -18,6 +18,8 @@ class AActor;
 #define UEPacman_Source_UEPacman_PacmanPawn_h_12_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execOnOverlapBegin); \
+	DECLARE_FUNCTION(execGetLives); \
+	DECLARE_FUNCTION(execremovelife); \
 	DECLARE_FUNCTION(execGetPoints); \
 	DECLARE_FUNCTION(execAddPoint); \
 	DECLARE_FUNCTION(execSetFrozen);
@@ -26,6 +28,8 @@ class AActor;
 #define UEPacman_Source_UEPacman_PacmanPawn_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execOnOverlapBegin); \
+	DECLARE_FUNCTION(execGetLives); \
+	DECLARE_FUNCTION(execremovelife); \
 	DECLARE_FUNCTION(execGetPoints); \
 	DECLARE_FUNCTION(execAddPoint); \
 	DECLARE_FUNCTION(execSetFrozen);
