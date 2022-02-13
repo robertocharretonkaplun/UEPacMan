@@ -29,7 +29,7 @@ public:
 protected:
 	UPROPERTY(BlueprintReadOnly)
 	bool m_frozen = true;
-
+	int points = 0;
 public:
 
 	void 
@@ -41,7 +41,13 @@ public:
 	UFUNCTION(BlueprintCallable)
 		void 
 		SetFrozen(bool _value) { m_frozen = _value;}
-
+		
+	UFUNCTION(BlueprintCallable)
+		void
+		AddPoint(int _point) {points += _point;}
+	UFUNCTION(BlueprintCallable)
+		int
+		GetPoints() {return points;}
 private:
 	UFUNCTION()
 		void

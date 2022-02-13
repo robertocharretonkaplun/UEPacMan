@@ -2,6 +2,7 @@
 
 
 #include "PacmanPawn.h"
+#include "Pellet.h"
 
 // Sets default values
 APacmanPawn::APacmanPawn()
@@ -56,5 +57,9 @@ void APacmanPawn::SetDirection(const FVector Direction)
 
 void APacmanPawn::OnOverlapBegin(AActor* PlayerActor, AActor* OtherActor)
 {
+	if (OtherActor->ActorHasTag("Pellet.NORMAL"))
+	{
+		Cast<APellet>(OtherActor)->Eat();
+	}
 }
 

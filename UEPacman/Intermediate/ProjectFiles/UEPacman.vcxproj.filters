@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UEPacman.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{03FE61DF-7648-4886-A106-295F7FCA24B8}</UniqueIdentifier>
+      <UniqueIdentifier>{DEA3EBB4-FAC3-4310-9B82-2FA8A014ACDB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UEPacman.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{7F4E7133-1214-4EA4-97B3-4A94D66DC08A}</UniqueIdentifier>
+      <UniqueIdentifier>{4D35A4D8-A29D-4ACA-810E-95A80728A1E0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\UEPacman">
-      <UniqueIdentifier>{88635264-8338-4973-A6C8-0B35CFB63117}</UniqueIdentifier>
+      <UniqueIdentifier>{1B782F25-9878-4BA6-BDFD-61106606F5EE}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\UEPacman\PacmanController.cpp">
       <Filter>Source\UEPacman</Filter>
@@ -36,6 +39,12 @@
       <Filter>Source\UEPacman</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\UEPacman\PacmanPawn.h">
+      <Filter>Source\UEPacman</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UEPacman\Pellet.cpp">
+      <Filter>Source\UEPacman</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UEPacman\Pellet.h">
       <Filter>Source\UEPacman</Filter>
     </ClInclude>
     <None Include="..\..\Source\UEPacman\UEPacman.Build.cs">
