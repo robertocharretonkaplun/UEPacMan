@@ -8,14 +8,25 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class AActor;
 #ifdef UEPACMAN_PacmanPawn_generated_h
 #error "PacmanPawn.generated.h already included, missing '#pragma once' in PacmanPawn.h"
 #endif
 #define UEPACMAN_PacmanPawn_generated_h
 
 #define UEPacman_Source_UEPacman_PacmanPawn_h_12_SPARSE_DATA
-#define UEPacman_Source_UEPacman_PacmanPawn_h_12_RPC_WRAPPERS
-#define UEPacman_Source_UEPacman_PacmanPawn_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define UEPacman_Source_UEPacman_PacmanPawn_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execOnOverlapBegin); \
+	DECLARE_FUNCTION(execSetFrozen);
+
+
+#define UEPacman_Source_UEPacman_PacmanPawn_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOnOverlapBegin); \
+	DECLARE_FUNCTION(execSetFrozen);
+
+
 #define UEPacman_Source_UEPacman_PacmanPawn_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPacmanPawn(); \
@@ -58,7 +69,10 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(APacmanPawn)
 
 
-#define UEPacman_Source_UEPacman_PacmanPawn_h_12_PRIVATE_PROPERTY_OFFSET
+#define UEPacman_Source_UEPacman_PacmanPawn_h_12_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__m_frozen() { return STRUCT_OFFSET(APacmanPawn, m_frozen); }
+
+
 #define UEPacman_Source_UEPacman_PacmanPawn_h_9_PROLOG
 #define UEPacman_Source_UEPacman_PacmanPawn_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \

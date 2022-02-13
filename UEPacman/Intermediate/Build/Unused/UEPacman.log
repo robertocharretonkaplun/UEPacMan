@@ -1,0 +1,13 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\personal\Documents\GitHub\UEPacMan).
+  Building UEPacmanEditor...
+  Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 5 actions with 8 processes...
+    [1/5] PacmanPawn.cpp
+    [2/5] PacmanController.cpp
+    [3/5] UE4Editor-UEPacman-0007.lib
+       Creating library C:\Users\personal\Documents\GitHub\UEPacMan\UEPacman\Intermediate\Build\Win64\UE4Editor\Development\UEPacman\UE4Editor-UEPacman-0007.lib and object C:\Users\personal\Documents\GitHub\UEPacMan\UEPacman\Intermediate\Build\Win64\UE4Editor\Development\UEPacman\UE4Editor-UEPacman-0007.exp
+    [4/5] UE4Editor-UEPacman-0007.dll
+       Creating library C:\Users\personal\Documents\GitHub\UEPacMan\UEPacman\Intermediate\Build\Win64\UE4Editor\Development\UEPacman\UE4Editor-UEPacman-0007.suppressed.lib and object C:\Users\personal\Documents\GitHub\UEPacMan\UEPacman\Intermediate\Build\Win64\UE4Editor\Development\UEPacman\UE4Editor-UEPacman-0007.suppressed.exp
+    [5/5] UEPacmanEditor.target
+  Total time in Parallel executor: 9.38 seconds
+  Total execution time: 10.65 seconds
