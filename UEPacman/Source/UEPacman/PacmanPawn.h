@@ -30,7 +30,7 @@ protected:
 	UPROPERTY(BlueprintReadOnly)
 	bool m_frozen = true;
 	int points = 0;
-	int lives = 5;
+	int lives = 100;
 public:
 
 	void 
